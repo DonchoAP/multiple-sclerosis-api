@@ -41,12 +41,12 @@ This API provides access to up-to-date and relevant information on Multiple Scle
 ## 🚀 Getting Started
 
 1. **Clone the repository**
-git clone https://github.com/DonchoAP/multiple-sclerosis-api.git
+*git clone https://github.com/DonchoAP/multiple-sclerosis-api.git*
 2. **Install dependencies**
 pip install -r requirements.txt
 3. **Set up environment variables**
-export FLASK_APP=run.py
-export FLASK_ENV=development
+*export FLASK_APP=run.py*
+*export FLASK_ENV=development*
 4. **Start the application**
 flask run
 ---
